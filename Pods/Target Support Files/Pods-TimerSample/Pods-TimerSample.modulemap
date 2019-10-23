@@ -1,0 +1,6 @@
+framework module Pods_TimerSample {
+  umbrella header "Pods-TimerSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
