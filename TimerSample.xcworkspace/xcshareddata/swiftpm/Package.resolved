@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CombineTimer",
+        "repositoryURL": "https://github.com/masa7351/CombineTimer.git",
+        "state": {
+          "branch": "master",
+          "revision": "e7e280e2a9eb9c4e78eb48bbc8e44f1332eaca69",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
